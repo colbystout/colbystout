@@ -8,7 +8,7 @@ After a long run working in creative arts and media, I became interested in anal
 
 ## Tools I Use:
 
-[![Excel](https://github.com/colbystout/colbystout/issues/1#issue-1381094090)][1][![SQL](https://github.com/colbystout/colbystout/issues/3#issue-1381098326)][2][![Power BI](https://github.com/colbystout/colbystout/issues/3#issue-1381098326)][3][![R](https://github.com/colbystout/colbystout/issues/4#issue-1381101148)][4]
+[![Excel](https://user-images.githubusercontent.com/103079066/191541985-8430401f-14f2-4c0f-a3cd-5646e47e5bcd.png)][1][![SQL](https://user-images.githubusercontent.com/103079066/191542984-8d1a05b9-eec5-4d07-95cd-0023b531c3a0.png)][2][![Power BI](https://user-images.githubusercontent.com/103079066/191542352-2df6648b-a12c-4069-8084-863ca4c50c2c.png)][3]![R](https://user-images.githubusercontent.com/103079066/191543233-2cb47971-1feb-4922-8e0b-ec70d5b43221.png)][4]
 
 ## I would love to connect with you!
 
