@@ -12,4 +12,4 @@ After a long run working in creative arts and media, I became interested in anal
 
 ## I would love to connect with you!
 
-Please connect with me on [GitHub](https://github.com/colbystout), [Kaggle](https://www.kaggle.com/colbystout), and/or [LinkedIn](https://www.linkedin.com/in/colby-stout/). :globe_with_meridians:
+Please connect with me on [GitHub](https://github.com/colbystout), [Kaggle](https://www.kaggle.com/colbystout), and [LinkedIn](https://www.linkedin.com/in/colby-stout/). :globe_with_meridians:
