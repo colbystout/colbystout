@@ -1,6 +1,6 @@
 # Welcome to my GitHub portfolio! :wave:
 
-## My name is Colby Stout, a Data Analyst from central Indiana. :corn:
+## My name is Colby Stout, a Data Analyst from central Indiana.
 
 After a long run working in creative arts and media, I became interested in analytics in early 2021. I discovered I really loved cleaning data and organizing visuals in Microsoft Excel. From there, I haven't stopped learning and honing my craft.
 
