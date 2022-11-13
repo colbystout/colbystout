@@ -1,4 +1,4 @@
-# Welcome to my GitHub portfolio! :wave:
+# Welcome to my GitHub! :wave:
 
 ## My name is Colby Stout, a Data Analyst from central Indiana.
 
