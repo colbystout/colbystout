@@ -1,8 +1,10 @@
 # Welcome to my GitHub! :wave:
 
-## My name is Colby Stout, a Data Analyst from central Indiana.
+## My name is Colby Stout, a Housing Researcher and Data Analyst from central Indiana.
 
 After a long run working in creative arts and media, I became interested in analytics in early 2021. I discovered I really loved cleaning data and organizing visuals in Microsoft Excel. From there, I haven't stopped learning and honing my craft.
+
+Currently, I serve as a research analyst for Bright MLS.
 
 ## Tools I Use:
 
